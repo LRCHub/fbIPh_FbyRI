@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "人生オーバー / 倉持めると Cover",
+  "base_artist": "倉持めると / Kuramochi Meruto【にじさんじ】",
+  "createdAt": "2026-03-28T20:56:34.496329Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人生オーバー",
+      "artist": "harha",
+      "has_synced": true,
+      "path": "select/01_人生オーバー_harha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生オーバー",
+      "artist": "倉持めると",
+      "has_synced": false,
+      "path": "select/pl_01_人生オーバー_倉持めると.txt"
+    }
+  ]
+}
